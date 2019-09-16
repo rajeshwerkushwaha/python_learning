@@ -1,4 +1,4 @@
-# read all at once
+# read all at one shot
 f = open('sample.txt', 'r')
 print(f.read())
 

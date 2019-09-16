@@ -1,4 +1,4 @@
-# send sms using twilio
+# send SMS using twilio
 # https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-python?code-sample=code-send-an-sms-using-the-programmable-sms-api&code-language=Python&code-sdk-version=6.x
 
 # pre-requisite

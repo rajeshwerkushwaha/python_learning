@@ -1,4 +1,4 @@
-# Import libraries
+# Import Libraries
 import requests
 from bs4 import BeautifulSoup
 

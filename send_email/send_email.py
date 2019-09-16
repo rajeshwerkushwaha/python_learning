@@ -70,5 +70,5 @@ if __name__ == '__main__':
     main()
 
 
-# Great post by Arjun
+# Great post by Mr. Arjun
 #https://www.freecodecamp.org/news/send-emails-using-code-4fcea9df63f/
