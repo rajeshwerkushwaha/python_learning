@@ -1,0 +1,32 @@
+<h3>Dear ${PERSON_NAME},</h3> 
+
+<p>
+First of all thanks a lot for those who attended yesterday's Janus Training session in EMEA/APAC region. 
+</p>
+
+<p>
+We hope you enjoyed attending as we did organizing it.
+</p>
+
+<p>
+Now we need your support by filling this feedback form so that we can improve our training sessions 
+and can provide you the trainings which benefits you more.
+</p>
+
+<p>Also, after watching the recorded session I observe that somebody was asking some question during the trainig but due to some technical issue we couldn't hear that.
+I really apologise for that and request you to put your question on the below Q&A sheet and we'll try our best to answer that.</p>
+
+
+<h3><a href='https://groupon.zoom.us/recording/play/TqvdImdNn_8mpW6ZyHfcbl0asdwr1z9LcVDn89ArQ6HI0TZoa3_OjAYALQYXZ9GT?startTime=1566986804000' target='_blank'>Recorded session</a></h3>
+
+<h3><a href='https://docs.google.com/presentation/d/145D7YbH6NvPCi-M1yzt94dCJPYxB5tmbUrQTS5EvQRU/edit?usp=sharing' target='_blank'>Slide Deck</a></h3>
+
+<h3><a href='https://docs.google.com/spreadsheets/d/1XrMU3robA6ZJQaVnPsnc751orqr5GcJprPhum_Zorvo/edit#gid=1138045113' target='_blank'>Question & Answers</a></h3>
+
+<h3><a href='https://forms.gle/k628oCpKs9d47NoZ8' target='_blank'>Feedback Form &nbsp;</a><span style='font-size:12px'>(Your 2 minutes can help us to help you!)</span></h3>
+
+
+<br>
+<br>
+Thanks & Regards,
+<div><div dir="ltr"><span style="font-weight:700;color:rgb(102,102,102);font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif;font-size:15px">Rajesh Kumar</span><br style="color:rgb(102,102,102);font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif;font-size:15px"><span style="color:rgb(102,102,102);font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif;font-size:15px">Data Analyst |&nbsp;</span><span style="color:rgb(97,189,109);font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif;font-size:15px;font-weight:700">GROUPON&nbsp;</span><span style="color:rgb(102,102,102);font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif;font-size:15px">Dublin</span></div><div dir="ltr"><a href="mailto:rkumar@groupon.com" style="color:rgb(0,83,132);outline:none 0px;font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif;font-size:15px" target="_blank">rkumar@groupon.com</a><br></div></div>
