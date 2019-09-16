@@ -1,0 +1,2 @@
+
+This line written by f.write() in wite mode (overwrite mode)

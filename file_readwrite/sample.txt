@@ -1,0 +1,3 @@
+Hello World!
+This is Rajesh Kumar.
+This line written by f.write() in append mode
