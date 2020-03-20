@@ -15,7 +15,8 @@ print(table2.to_pandas())
 df = pd.DataFrame({'four': [-1, np.nan, 3],
                    'five': ['foo', 'bar', 'baz'],
                    'six': ['foo1', 'bar1', 'baz1'],
-                   'seven': [True, False, True]})
+                   'seven': [True, False, True],
+                   'eight': [True, False, True]})
 
 table = pa.Table.from_pandas(df)
 pq.write_table(table, 'example.parquet')
