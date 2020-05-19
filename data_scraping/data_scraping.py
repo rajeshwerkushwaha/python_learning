@@ -34,6 +34,16 @@ for item in soup.select("#wrap > div:nth-child(4) > div.lemon--div__373c0__1mboc
 	print('Description: ', item.select('p[class="lemon--p__373c0__3Qnnj text__373c0__2Kxyz text-color--black-extra-light__373c0__2OyzO text-align--left__373c0__2XGa-"]')[0].text)
 	print("==================================================================================================================================")
 
+
+https://www.google.com/search?safe=active
+&sxsrf=ALeKk02VM76gF9Z315iMPYKpKiPvandsbg%3A1589708819353
+&source=hp&ei=EwjBXrCWE_WO1fAP0a-WiA8
+&q=%22current.*+Amazon%22+site%3Alinkedin.com%2Fin+developer
+&oq=%22current.*+Amazon%22+site%3Alinkedin.com%2Fin+developer
+&gs_lcp=CgZwc3ktYWIQA1DJDFjJDGCfFWgAcAB4AIABI4gBI5IBATGYAQCgAQKgAQGqAQdnd3Mtd2l6
+&sclient=psy-ab&ved=0ahUKEwjw6-LrzrrpAhV1RxUIHdGXBfEQ4dUDCAc
+&uact=5
+
 ###########################################
 ## to get all the email subject lines #####
 ###########################################
