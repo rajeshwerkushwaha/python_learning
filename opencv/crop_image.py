@@ -1,6 +1,27 @@
+"""
+The objective of this python file is to crop the desired box from the give image.
+Note: Currently limitation is that it can accept only 4 lines bounded box
+
+How to run:
+Run the below command from the terminal where python this python file is stored.
+
+python crop_image.py --image <imale_file_path>
+
+Example:
+python crop_image.py --image cards.jpg
+
+"""
+
+
 import cv2 as cv
 import numpy as np
- 
+import argparse
+
+
+# construct the argument parse and parse the arguments
+ap = argparse.ArgumentParser()
+ap.add_argument("-i", "--image", required=True, help="path to the input image")
+args = vars(ap.parse_args())
 
 
 def mouse_click(event,x,y,flags,param):
@@ -48,7 +69,7 @@ def write_text(img):
 
 pt1 = []    # pt1 list to hol
 width,height = 250,350  # width & heigh of the cropped image
-img = cv.imread('cards.jpg')    # read cards image
+img = cv.imread(args["image"])    # read cards image
 clone = img.copy()  # get clone of image for future
 img = write_text(img)
 cv.imshow('Cards', img)
