@@ -1,10 +1,11 @@
 This folder is to see how we can write unit tests for our python code.
 
 ### Prerequisites
-`pip install pytest`
-`pip install pytest-cov`
+- `pip install pytest`
+- `pip install pytest-cov`
 
 Goto folder pytest from terminal and run the below command
+
 `pytest --cov=src tests/`
 
 ### Note:
