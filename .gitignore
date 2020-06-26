@@ -2,3 +2,6 @@
 */.ipynb_checkpoints/*
 tmp/
 */data/*
+*.pytest_cache
+*__pycache__
+*.coverage
