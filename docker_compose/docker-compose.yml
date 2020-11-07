@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/code # this will mount the current dir into /code in docker to reflect the changes in real-time
+    environment:
+      FLASK_ENV: development  # this will tell flask to run in dev mode
+  redis:
+    image: "redis:alpine"
